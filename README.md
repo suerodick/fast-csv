@@ -551,7 +551,7 @@ csv
        ["a", "b"],
        ["a1", "b1"],
        ["a2", "b2"]
-   ], {headers: true})
+   ], {headers: true, flags: 'a'})
    .pipe(ws);
 ```
 
@@ -561,7 +561,7 @@ csv
    .write([
        {a: "a1", b: "b1"},
        {a: "a2", b: "b2"}
-   ], {headers: true})
+   ], {headers: true, flags: 'w'})
    .pipe(ws);
 ```
 
