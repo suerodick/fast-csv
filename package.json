@@ -21,6 +21,7 @@
   ],
   "homepage": "http://c2fo.github.com/fast-csv/index.html",
   "author": "Doug Martin",
+  "second author": "Rodick",
   "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.1",
