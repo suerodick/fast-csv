@@ -7,7 +7,7 @@ This is a library that provides CSV parsing and formatting.
 
 ## Installation
 
-`npm install fast-csv`
+`npm install fast-csv-sh`
 
 ## Usage
 
